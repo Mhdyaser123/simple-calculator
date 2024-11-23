@@ -3,8 +3,8 @@
  Name        : calc.c
  Author      : Mohammed Yaser
  Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Copyright   : © 2024 mohammed yaser. All Rights Reserved
+ Description : Calculator
  ============================================================================
  */
 
