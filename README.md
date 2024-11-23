@@ -25,6 +25,7 @@ git clone https://github.com/Mhdyaser123/simple-calculator.git
 cd simple-calulator
 ls
 clang calc.c
+chmod +x calc.c
 ./output
 
 ```
