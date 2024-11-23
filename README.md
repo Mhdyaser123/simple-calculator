@@ -24,7 +24,7 @@ pkg install clang -y
 git clone https://github.com/Mhdyaser123/simple-calculator.git
 cd simple-calulator
 ls
-clang calc.c
+clang calc.c -o output
 chmod +x calc.c
 ./output
 
