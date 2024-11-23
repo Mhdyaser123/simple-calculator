@@ -1,4 +1,3 @@
-# simple-calculator
 <h1 align="center">
 SIMPLE CALCULATOR
   <br>
