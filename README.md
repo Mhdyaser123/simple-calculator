@@ -21,7 +21,7 @@ commands to run in Termux:
 pkg install git -y
 pkg install tur-repo 
 pkg install clang -y 
-git clone https://github.com/Mhdyaser123/simple-calculator.git
+git clone https://github.com/mohammedyaserr/simple-calculator.git
 cd simple-calulator
 ls
 clang calc.c -o output
